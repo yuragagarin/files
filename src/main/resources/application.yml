@@ -1,0 +1,4 @@
+app:
+  version: 1.0.0.1
+  srcFiles: "d:\\test\\files\\test-1"
+  destFile: "d:\\test\\res.txt"
